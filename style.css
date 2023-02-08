@@ -1,0 +1,8 @@
+.schoolHeader h1 {
+    text-transform: uppercase;
+}
+
+.containercustom{
+    max-width: 700px;
+    margin: auto;
+}
